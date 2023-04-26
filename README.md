@@ -15,11 +15,11 @@
 
 <br>
 
-![Double Vertical Slider]()
+![Double Vertical Slider](images/double-vertical-slider.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Double-Vertical-Slider/)
 
 <br>
 
